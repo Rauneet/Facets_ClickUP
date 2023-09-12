@@ -2,7 +2,7 @@
 **Create python scripts**
 
 **create a account on clickup:**
-Manually sign up for an account 
+Manually sign up for an account  
 **Create List and Task**
 Manually created two list named blue and green in clickup
 Added 3 - 4 tasks with different names and description to both the lists
