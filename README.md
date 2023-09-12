@@ -1,5 +1,5 @@
-# Facets_ClickUP
-# HEADING - **Create python scripts**
+# Facets_ClickU
+**Create python scripts**
 
 **create a account on clickup:**
 Manually sign up for an account 
