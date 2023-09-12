@@ -1,4 +1,4 @@
-# Facets_ClickU
+# Facets_ClickUp
 **Create python scripts**
 
 **create a account on clickup:**
